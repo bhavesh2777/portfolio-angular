@@ -4,7 +4,7 @@
   "Header.Item3": "Proyectos",
   "Header.Item4": "Contacto",
   "Header.cvBtn": "Curriculum",
-  "Header.cvName": "CV_Jose_Hernandez_Espanol.pdf",
+  "Header.cvName": "Bhavesh_Panchal_Resume.pdf",
 
   "Banner.Pretitle": "Hola! Mi nombre es",
   "Banner.Description": "Tengo <span class='underline'>4 años de experiencia</span> desarrollando sistemas, interfaces, bots y soluciones tecnológicas para hacer de la web un lugar mejor. Me dedico a escribir y refactorizar código limpio, reutilizable y escalable en <span class='underline'>Angular</span> y en ocaciones en <span class='underline'>Node.js</span> aplicando buenas practicas y estandares de desarrollo.",
@@ -24,7 +24,7 @@
       "Title": "Fullstack developer",
       "Date": "Diciembre 2019 - Actualidad",
       "Description": [
-        "Creación y mantenimiento de una plataforma de monitorio con gráficos en Wordpress.",
+        "Creación y mantenimiento de una plataforma de monitorio con gráficos en Sass.",
         "Programación funcional en plantillas y plugins para añadir las características necesarias de monitoreo.",
         "Implementación de integración continua y respaldos diarios.",
         "Creación y mantenimiento de una segunda plataforma de Monitoreo Realizada en Angular, Angular Material, Node.js, Mysql, RxJS, Sass con gráficos (configurables), sistema de alarmas, y gestión de usuarios y configuración de parámetros generales.",
@@ -37,7 +37,7 @@
       "Date": "Mayo 2016 - Actualidad",
       "Description": [
         "Implementacion de mejoras continuas, trabajando en frontend y backend.",
-        "Creacion de plataformas con Angular, Node.js, Wordpress programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
+        "Creacion de plataformas con Angular, Node.js, Sass programadas con paradigmas de programación funcional, reactiva y orientada a objetos.",
         "Automatizacion de procesos con estructuras de datos.",
         "Maquetacion de diseños con SASS, Bootstrap, Materialize, Bulma, etc."
       ]
@@ -59,7 +59,7 @@
       "Title": "Full Stack Developer",
       "Date": "Febrero 2016 - Mayo 2017",
       "Description": [
-        "Creación de plantillas de wordpress con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
+        "Creación de plantillas de Sass con ACF, programación funcional en Javascript / jQuery, estilos en SASS",
         "integración de mejoras en diseño y tiempos de carga de plantillas.",
         "Comunicación efectiva con equipo de diseño, trabajando con Avocode / Figma"
       ]
