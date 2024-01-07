@@ -7,12 +7,12 @@
   "Header.cvName": "Bhavesh_Panchal_Resume.pdf",
 
   "Banner.Pretitle": "Hello! My name is",
-  "Banner.Description": "I have <span class='underline'>3 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular</span> and <span class='underline'>Node.js</span> applying good practices and development standards.",
+  "Banner.Description": "I have <span class='underline'>4 years of experience</span> developing systems, interfaces, bots, and technological solutions to make the web a better place. I am dedicated to writing and refactoring clean, reusable, and scalable code in <span class='underline'>Angular, React</span> and <span class='underline'>Node.js</span> applying good practices and development standards.",
   "Banner.ActionBtn": "Get in touch",
 
   "AboutMe.Title": "About me",
   "AboutMe.Paragraphs": [
-    "In my <span class='underline'>3 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>Clean & Reusable code</span>, Creating Database Architecture, and covering backend developer roles with <span class='underline'>Node.js and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
+    "In my <span class='underline'>4 years as a developer</span>, I seek to train every day. I have worked writing <span class='underline'>Clean & Reusable code</span>, Creating Database Architecture, and covering backend developer roles with <span class='underline'>Node.js and Mysql</span>. I have led teams having empathy, exercising motivation to partners, and setting plans and goals together.",
     "My skills also include implementing system improvements, optimizing sites, standardizing patterns, and suggesting and executing ideas that add value to the project I'm working on.",
     "Some of the technologies that I have trained and worked on include (but are not limited to):"
   ],
@@ -127,7 +127,7 @@
     },
     {
       "Title": "Profile card",
-      "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+      "Description": "",
       "Technologies": ["Angular", "SASS", "GIT"]
     },
     {
@@ -138,6 +138,6 @@
   ],
   "Contact.Pretitle": "What’s Next",
   "Contact.Title": "Get in touch!",
-  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+  "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. ",
   "Contact.Btn": "Say Hello"
 }
