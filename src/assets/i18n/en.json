@@ -64,7 +64,7 @@
     }
   ],
 
-  "FeatureProjects.Title": "My projects",
+  "FeatureProjects.Title": "Projects I worked upon",
   "FeatureProjects.Label": "Featured Project",
   "FeatureProjects.Projects": [
     {
@@ -85,7 +85,7 @@
       ]
     },
     {
-      "Title": "Litt",
+      "Title": "Lenditt",
       "Description": "Used advanced concepts of Angualar like <span class='underline'>RxJS, NgRx (State-Management)</span>, Lazy loading & Angular Material, Reactive forms in multiple projects. Worked on a FinTech product(NBFC digital lending platform). With leading Technology stack consisting of Angular applications for product dashboard & tools, NodeJS (NestJS) backend service, <span class='underline'>PostgreSQL & Firebase NoSQL</span> database.",
       "imgs": [
         "assets/images/lenditt_images/one.jpg",
@@ -103,33 +103,11 @@
         "assets/images/fairdogs_images/pic3.png"
       ],
       "Technologies": ["Node.js", "Angular", "SASS", "Angular Material", "RxJS"]
-    },
-    {
-      "Title": "Hands game",
-      "Description": "The rock-paper-scissors game extended. A personal project developed in angular in which you play randomly against the machine. It has the use of services, interfaces, and components.",
-      "imgs": ["assets/images/hands-game.png"],
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-    },
-    {
-      "Title": "Countries viewer",
-      "Description": "An interface that consumes an API of countries with which you can view a list of countries, see details of each country, filter by name and region. It also has a dark mode to switch between dark and light themes.",
-      "imgs": ["assets/images/countries-viewer.png"],
-      "Technologies": ["Angular", "RxJS", "SASS", "API"]
     }
   ],
 
   "OtherProjects.Title": "More projects",
   "OtherProjects.Projects": [
-    {
-      "Title": "Four card feature section",
-      "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
-      "Technologies": ["Angular", "SASS", "CSS GRID"]
-    },
-    {
-      "Title": "Profile card",
-      "Description": "",
-      "Technologies": ["Angular", "SASS", "GIT"]
-    },
     {
       "Title": "Coming soon page",
       "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",

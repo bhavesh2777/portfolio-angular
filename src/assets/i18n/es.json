@@ -128,22 +128,6 @@
         "assets/images/proyex/proyex12.png"
       ],
       "Technologies": ["Node.js", "Angular", "SASS", "Angular Material", "RxJS"]
-    },
-    {
-      "Title": "Hands game",
-      "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
-      "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "#",
-      "demoLink": "#",
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
-    },
-    {
-      "Title": "Countries viewer",
-      "Description": "Interfaz que consume una API de países con el que se pueden visualizar lista de países, ver detalles de cada país, filtrar por nombre y región. Ademas cuenta con un dark mode para alternar entre el tema oscuro y el claro.",
-      "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "#",
-      "demoLink": "#",
-      "Technologies": ["Angular", "RxJS", "SASS", "API"]
     }
   ],
 
